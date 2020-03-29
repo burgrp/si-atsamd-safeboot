@@ -1,9 +1,8 @@
 {
 	"name": "@device.farm/si-atsamd-safeboot",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "paul",
-	"dependencies": {
-	},
+	"dependencies": {},
 	"silicon": {
 		"sources": [
 			"safeboot.cpp"
