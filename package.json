@@ -1,5 +1,5 @@
 {
-	"name": "@device.farm/atsamd-safeboot",
+	"name": "@device.farm/si-atsamd-safeboot",
 	"version": "1.0.0",
 	"author": "paul",
 	"dependencies": {
